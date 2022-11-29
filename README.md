@@ -1,5 +1,6 @@
 # motion-sensor
-Testing my understanding of OpenCV by creating a motion sensor.
+Testing my understanding of OpenCV by creating a motion sensor. 
+The white parts on the screen are places where the program detection motion.
 
 # screenshots
 ![motion sensor demo 1](https://github.com/jjhickmon/motion-sensor/blob/4156b9ef339ea4e279b2e440557eb6589ffd200c/Screen%20Shot%202022-11-28%20at%205.09.52%20PM.png)
